@@ -1,4 +1,4 @@
-# TerraformでEC2インスタンスを作成するプロジェクト
+# Terraform学習用のプロジェクト
 
 ## 概要
 このプロジェクトはTerraformを使ってAWS上にEC2インスタンスを作成します。
